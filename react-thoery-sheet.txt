@@ -1,0 +1,5 @@
+npm- Node Package Manager
+
+npx- Node Package Executefa-rotate-180
+
+create-react-app is a utility
