@@ -3,3 +3,19 @@ npm- Node Package Manager
 npx- Node Package Executefa-rotate-180
 
 create-react-app is a utility
+
+ReactDom is for web app
+
+ReactNative is for Mobile app
+
+DOM in simple meaning is tree like structure
+
+react-script is used for render index.html
+
+we are working with vite ya create-app in create we have naming in uppercase of component function,
+vite is forced to follow naming convention 
+
+
+basic react app app , humko follow krna chahiye , agr html return ho rha than 
+.jsx file ho , agr javascript ho toh js , 
+but Vite jatar files ka name .jsx file name hota hai 
