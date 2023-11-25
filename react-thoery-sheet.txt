@@ -19,3 +19,5 @@ vite is forced to follow naming convention
 basic react app app , humko follow krna chahiye , agr html return ho rha than 
 .jsx file ho , agr javascript ho toh js , 
 but Vite jatar files ka name .jsx file name hota hai 
+
+Virtual DOM
